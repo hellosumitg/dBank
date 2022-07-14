@@ -1,4 +1,4 @@
-# dBank or Decentralised Bank (Use Rinkeby Testnet):-
+# dBank or Decentralized Bank (Use Rinkeby Testnet):-
 It is an MVP for understanding the working of Deposit, Withdrawl, Borrowing and Paying-off funds to & from a bank in the web3 world.  
 Here, Interest and Fee are paid in terms of ERC20 Token(DBC) which is Bank's own currency (i.e Decentralized Bank Currency).
 
